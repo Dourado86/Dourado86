@@ -1,16 +1,47 @@
-## Hi there 👋
+# Rafael Dourado
 
-<!--
-**Dourado86/Dourado86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Backend em formação com foco em .NET e arquitetura de sistemas.
 
-Here are some ideas to get you started:
+Atualmente estudando:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C#
+- ASP.NET Core
+- APIs REST
+- Arquitetura de sistemas
+- Integração entre serviços
+- Mensageria
+
+## Projetos em Destaque
+
+### Sistema de Integração de Pedidos
+Simulação de arquitetura distribuída com duas APIs.
+
+Tecnologias:
+- ASP.NET Core
+- Entity Framework
+- SQL Server
+- BackgroundService
+
+Repositório:
+https://github.com/Dourado86/sistema-integracao-pedidos
+
+---
+
+### API RESTful de Tarefas
+
+API para gerenciamento de tarefas utilizando boas práticas de desenvolvimento backend.
+
+Tecnologias:
+- ASP.NET Core
+- Entity Framework
+- SQL Server
+
+Repositório:
+https://github.com/Dourado86/API-RESTful-de-Tarefas
+
+---
+
+## Conecte-se comigo
+
+LinkedIn:
+https://www.linkedin.com/in/rafael-dourado-5565ab28b/
